@@ -1,17 +1,17 @@
-#### Welcome to my Home Page!
+### Welcome to my Home Page!
 ---
-**Research interests**
+#### **Research interests**
 - Time series forecasting
 - Multi-modal models
 - Computer vision
 - Artificial intelligence
 ---
-Recent Work
+#### Recent Work
 - *Y. Zhang** and W. Xue, "RFA-YOLO-POSE: A Fusion Algorithm for Pose Detection and Object Identification Amidst Complex Crowds," 2024 5th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), Nanjing, China, 2024, pp. 966-969, doi: 10.1109/AINIT61980.2024.10581583
 - **Y. Zhang** and W. Xue, "SIAM-CDNET: A Remote Sensing Image Change Detection Network for Optimized Edge Detection and Mitigation of Pseudo Changes," in IEEE Access, vol. 12, pp. 120672-120686, 2024, doi: 10.1109/ACCESS.2024.3451473.
 - Xue W, **Zhang Y.** Marine drowning detection method based on improved YOLOv5[C]//4th International Conference on Internet of Things and Smart City (IoTSC 2024). SPIE, 2024, 13224: 151-157.
 ---
-Have been honored
+#### Have been honored \
 The first prize of the "2024 RAICOM Robot Developer Competition National Final" algorithm tuning Competition \
 The second prize of "Huawei ICT Competition 2023-2024" Innovation Competition National Final \
 Third prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition -- Digital Technology Innovation Selection Competition \
@@ -22,4 +22,4 @@ The second prize in Shandong Division of the 15th Blue Bridge Cup National Softw
 The first prize in Shandong Division of the 14th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \
 The first prize of the algorithm tuning competition of 2024 RAICOM Robot Developer Competition (Shandong Province) \
 "Gao Xun Zhen Yuan Cup" 2024 Shandong College Student Computer Design Competition First prize, second prize \
-The second prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \
+The second prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition 
