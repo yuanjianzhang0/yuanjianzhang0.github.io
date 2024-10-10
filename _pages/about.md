@@ -1,5 +1,4 @@
-欢迎来到我的主页！
-Welcome to my Home Page!
+#### Welcome to my Home Page!
 ---
 **Research interests**
 - Time series forecasting
@@ -13,14 +12,14 @@ Recent Work
 - Xue W, **Zhang Y.** Marine drowning detection method based on improved YOLOv5[C]//4th International Conference on Internet of Things and Smart City (IoTSC 2024). SPIE, 2024, 13224: 151-157.
 ---
 Have been honored
-The first prize of the "2024 RAICOM Robot Developer Competition National Final" algorithm tuning Competition \\
-The second prize of "Huawei ICT Competition 2023-2024" Innovation Competition National Final \\
-Third prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition -- Digital Technology Innovation Selection Competition \\
-The 26th China Robot and Artificial Intelligence Competition National Final National second prize \\
-The second prize of China University Computer Competition --2024 Network Technology Challenge in East China Division \\
-The second prize of the 26th China Robot and Artificial Intelligence Competition (Shandong Division) and Shandong Robot and Artificial Intelligence Competition \\
-The second prize in Shandong Division of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \\
-The first prize in Shandong Division of the 14th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \\
-The first prize of the algorithm tuning competition of 2024 RAICOM Robot Developer Competition (Shandong Province) \\
-"Gao Xun Zhen Yuan Cup" 2024 Shandong College Student Computer Design Competition First prize, second prize \\
-The second prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \\
+The first prize of the "2024 RAICOM Robot Developer Competition National Final" algorithm tuning Competition \
+The second prize of "Huawei ICT Competition 2023-2024" Innovation Competition National Final \
+Third prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition -- Digital Technology Innovation Selection Competition \
+The 26th China Robot and Artificial Intelligence Competition National Final National second prize \
+The second prize of China University Computer Competition --2024 Network Technology Challenge in East China Division \
+The second prize of the 26th China Robot and Artificial Intelligence Competition (Shandong Division) and Shandong Robot and Artificial Intelligence Competition \
+The second prize in Shandong Division of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \
+The first prize in Shandong Division of the 14th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \
+The first prize of the algorithm tuning competition of 2024 RAICOM Robot Developer Competition (Shandong Province) \
+"Gao Xun Zhen Yuan Cup" 2024 Shandong College Student Computer Design Competition First prize, second prize \
+The second prize of the 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition \
