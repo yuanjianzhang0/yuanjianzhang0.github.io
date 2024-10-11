@@ -10,4 +10,4 @@ author_profile: true
 
 ---
 
-AIoTMaster纳新请点击(CV)[https://yuanjianzhang0.github.io/cv/],填写调查问卷
+AIoTMaster纳新请点击[CV](https://yuanjianzhang0.github.io/cv/),填写调查问卷
