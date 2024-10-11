@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I graduated from the School of Computer Science and Engineering of Shandong University of Science and Technology(SDUST) with a bachelor's degree, and am currently pursuing a master's degree in Beijing University of Posts and Telecommunications(BUPT)
+
 #### **Research Interests**
   - Time series forecasting
   - Multi-modal models
