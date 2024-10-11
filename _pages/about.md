@@ -10,7 +10,8 @@ redirect_from:
 
 I graduated from the School of Computer Science and Engineering of Shandong University of Science and Technology(SDUST) with a bachelor's degree, and am currently pursuing a master's degree in Beijing University of Posts and Telecommunications(BUPT)
 
-# Others
+# News
+*AIoTMaster纳新请点击*[CV](https://yuanjianzhang0.github.io/cv/)
 ## **Research Interests**
   - Time series forecasting
   - Multi-modal models
