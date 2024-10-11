@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "Shandong University of Science and Technology(Qing Dao,China)"
 title                    : "Yuanjian Zhang"
 title_separator          : "-"
 name                     : &name "Yuanjian Zhang"
@@ -34,8 +34,8 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  orcid            : "http://orcid.org/0009-0007-4525-8098"
+  semantic         : "https://www.semanticscholar.org/author/Yuanjian-Zhang/2310835408"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
