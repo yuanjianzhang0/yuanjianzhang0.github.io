@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### **Research interests**
+#### **Research Interests**
 - Time series forecasting
 - Multi-modal models
 - Computer vision
