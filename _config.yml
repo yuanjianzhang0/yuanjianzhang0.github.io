@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shandong University of Science and Technology(Qing Dao,China)"
-title                    : "Yuanjian Zhang"
+locale                   : "en-US"
+title                    : "Yuanjian Zhang (张元鉴)"
 title_separator          : "-"
-name                     : &name "Yuanjian Zhang"
+name                     : &name "Yuanjian Zhang (张元鉴)"
 description              : &description "personal description"
 url                      : https://yuanjianzhang0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Yuanjian Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master's degree in progress"
+  location         : "QingDao, China"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuanjianzhang2003@163.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0007-4525-8098"
   semantic         : "https://www.semanticscholar.org/author/Yuanjian-Zhang/2310835408"
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/yuanjianzhang0"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
