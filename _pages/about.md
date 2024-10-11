@@ -1,4 +1,4 @@
-### Welcome to my Home Page!
+### About me
 ---
 #### **Research interests**
 - Time series forecasting
